@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "733983763656",
+    "firebase_url": "https://primal-library-263015.firebaseio.com",
+    "project_id": "primal-library-263015",
+    "storage_bucket": "primal-library-263015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733983763656:android:3db2b854d0a64cddb249fd",
+        "android_client_info": {
+          "package_name": "com.myapps.digitrecognizerwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733983763656-pgobi0l59g17kj6j4vbtg72adlt2s992.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvcvXiZmaKbKmyHifBYMGVOmHx7oHQxOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733983763656-6eivj81p2mrtaflgkgj9cv79nh340l8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
